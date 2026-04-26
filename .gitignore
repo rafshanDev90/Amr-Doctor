@@ -1,1 +1,2 @@
-server/.env
+api/.env
+api/app/services/__pycache__/

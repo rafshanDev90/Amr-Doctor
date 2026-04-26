@@ -1,0 +1,13 @@
+.env
+.venv
+app/venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+vector_db/
+logs/
+.ipynb_checkpoints/
+*.log
